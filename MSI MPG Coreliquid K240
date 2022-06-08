@@ -1,0 +1,7 @@
+Started capture
+After ~10s raised pump speed from 60% to around 70% (4 points dragged to form a flat response vs temperature)
+Waited until pump speed reached limit and lowered back to 60%
+Repeated above steps for pump-block fan
+Moved the points for radiator fans
+
+Note: Radiator fans are not connected to the controller. 
